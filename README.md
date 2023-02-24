@@ -2,7 +2,7 @@
 
 Quando nosso grupo se reuniu para idealizar o projeto e debater as ideias, nossa squad 2, teve a sensibilidade de pensar em um conteúdo
 que fosse de interesse comum a comunidade, algo que contribuísse, e a certo nível ajudasse a vida cotidiana de qualquer cidadão brasileiro.
-Pensamos em criar um aplicativo que fosse simples, objetivo, com uma estética "limpa" e com usabilidade clara e direta. Para que fosse acessível e de
+Pensamos em criar um aplicativo que fosse simples, objetivo, com uma estética "limpa", com usabilidade clara e direta. Para que fosse acessível e de
 fácil compreensão a todos, mas principalmente aqueles que não tem tanta proximidade com a tecnologia.
 
 Com isso em mente, surgiram as seguintes ideias:
