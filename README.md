@@ -14,8 +14,10 @@ Com isso em mente, surgiram as seguintes ideias:
 
 **Orlando:**
 
+**Thiago:** Criar uma API para fazer uma integração das bibliotecas públicas. Gerar um único banco de dados para pesquisa e localização de livros.
+Teria uma relação de autor e título, onde está localizada a obra ou livro científico, separando por município e bairro do Rio de Janeiro.
 
-**Thiago:**
+
 
 **Matheus:**
 
