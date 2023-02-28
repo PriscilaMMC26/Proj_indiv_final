@@ -18,6 +18,7 @@ Com isso em mente, surgiram as seguintes ideias:
 Teria uma relação de autor e título, onde está localizada a obra ou livro científico, separando por município e bairro do Rio de Janeiro.
 
 **Matheus:**
+O chat em bloco é uma plataforma/aplicativo que permite o armazenamento de diversos arquivos em pastas separadas semelhante ao github!com a possibilidade de armazenar em uma parte separada: videos, audios e arquivos em textos, por se tratar de um bloco de notas também é possível manter os dados e anotações, todos os arquivos ficam salvos em nosso servidor, tendo a opção de salvar em seu dispositivo!além desta capacidade por ser um chat com bloco de notas, obviamente possui um espaço para conversas, não há necessidade de login, apenas para chats privados e pessoais, as conversas são disponibilizadas através de um link pessoal aonde qualquer pessoa pode ter acesso caso entre este link, obviamente existe a possibilidade de manter este link privado, em cada conversa haverá um repositório guardando os arquivos compartilhados pelo chat,lembrando que o repositorio pessoal é separado dos chats que você entrar
 
 **Gabrielly:**
 
